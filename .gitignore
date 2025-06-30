@@ -1,4 +1,16 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+backend/__pycache__/
+backend/*.py[cod]
+
+# Backend: Virtual environment
+backend/venv/
+
+# Backend: Environment variables
+backend/.env
+
+# Backend: Editor/IDE settings (optional)
+backend/.vscode/
+
 
 # dependencies
 /node_modules
