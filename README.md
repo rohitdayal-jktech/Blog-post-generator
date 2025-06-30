@@ -17,7 +17,10 @@ A modern web application to instantly generate full-length, high-quality blog po
 
 ## 🖼️ Preview
 
-![preview](public/screenshot.png) <!-- Replace with actual screenshot -->
+![Landing page ](public/Screenshot1.png)
+
+
+![Generate Blog](public/Screenshot2.png)
 
 ---
 
