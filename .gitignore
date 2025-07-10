@@ -12,6 +12,9 @@ backend/.env
 backend/.vscode/
 
 
+/backend/app/__pycache__/
+/backend/venv/
+/backend/.env
 # dependencies
 /node_modules
 /.pnp
